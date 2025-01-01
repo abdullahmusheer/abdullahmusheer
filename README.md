@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on API development and data engineering stuff.
-- 💬 Ask me about Database management, SQL Querying, IT Infrastructure,Microservices and Business Analysis
+- 🔭 I like developing stuff currently I am workong on API development using FastAPI.
+- 💬 Ask me about Database management, SQL Querying, IT Infrastructure, Microservices and Business Analysis
+- ⚡ Lets develop something cool, learn a new language or start fresh
 - 📫 Reach me @ https://ca.linkedin.com/in/abdullah-rizvi
-- ⚡ Lets develop something cool, learn a new language and start fresh
-- My areas of interests include data, solutions, development and knowledge sharing
+- My areas of interests include data, solutions, development, architect and knowledge sharing
 - Techstack that I work on are Python,ETL,Kafka,FastAPI,Mulesoft,VBA
 - Databases - Oracle,MySQL,MSSQL,IBM DB2
