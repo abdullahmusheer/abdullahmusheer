@@ -6,5 +6,5 @@
 - ⚡ Lets develop something cool, learn a new language or start fresh
 - 📫 Reach me @ https://ca.linkedin.com/in/abdullah-rizvi
 - My areas of interests include data, solutions, development, architect and knowledge sharing
-- Techstack that I work on are Python,ETL,Kafka,FastAPI,Mulesoft,VBA
+- Techstack that I work on are Python,ETL,Kafka,FastAPI,Mulesoft,VBA(not really)
 - Databases - Oracle,MySQL,MSSQL,IBM DB2
